@@ -1,0 +1,171 @@
+[
+  {
+    "id": 1,
+    "title": "Mountain Trekking",
+    "image": "https://i.ibb.co.com/BPW8rjG/hiking.webp",
+    "shortDescription": "Explore stunning mountain trails while preserving nature.",
+    "category": "Mountain Treks",
+    "cost": "$200",
+    "availability": "Yes",
+    "location": "Himalayas",
+    "duration": "3 days",
+    "adventureLevel": "Moderate",
+    "includedItems": ["Guides", "Meals", "First-aid"],
+    "ecoFriendlyFeatures": ["Low-impact trails", "Reusable gear"],
+    "maxGroupSize": 10,
+    "specialInstructions": ["Wear sturdy shoes", "Pack light"]
+  },
+  {
+    "id": 2,
+    "title": "Ocean Diving",
+    "image": "https://i.ibb.co.com/bdcjFtm/scuba.webp",
+    "shortDescription": "Dive into vibrant underwater ecosystems responsibly.",
+    "category": "Ocean Dives",
+    "cost": "$500",
+    "availability": "Yes",
+    "location": "Great Barrier Reef",
+    "duration": "2 days",
+    "adventureLevel": "Advanced",
+    "includedItems": ["Diving gear", "Snacks"],
+    "ecoFriendlyFeatures": ["Marine-safe sunscreen", "Reef-friendly practices"],
+    "maxGroupSize": 8,
+    "specialInstructions": [
+      "Certified divers only",
+      "Listen to safety instructions"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Wildlife Safari",
+    "image": "https://i.ibb.co.com/TH5fyhk/safari.webp",
+    "shortDescription": "Embark on a responsible safari and witness wildlife in their natural habitat.",
+    "category": "Wildlife Safaris",
+    "cost": "$350",
+    "availability": "Yes",
+    "location": "Serengeti National Park",
+    "duration": "5 days",
+    "adventureLevel": "Moderate",
+    "includedItems": ["Safari vehicle", "Snacks", "Guides"],
+    "ecoFriendlyFeatures": [
+      "Eco-friendly vehicles",
+      "Respectful animal observation"
+    ],
+    "maxGroupSize": 12,
+    "specialInstructions": [
+      "Bring binoculars",
+      "Stay quiet during animal sightings"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Kayaking Expedition",
+    "image": "https://i.ibb.co.com/W3Fd4Rr/kayak.webp",
+    "shortDescription": "Paddle through serene waterways while minimizing your environmental impact.",
+    "category": "Water Adventures",
+    "cost": "$120",
+    "availability": "Yes",
+    "location": "Amazon River",
+    "duration": "4 days",
+    "adventureLevel": "Easy",
+    "includedItems": ["Kayak", "Life vest", "Waterproof bags"],
+    "ecoFriendlyFeatures": ["Eco-friendly kayaks", "Leave-no-trace practices"],
+    "maxGroupSize": 6,
+    "specialInstructions": ["Wear sunscreen", "Respect local wildlife"]
+  },
+  {
+    "id": 5,
+    "title": "Forest Retreat",
+    "image": "https://i.ibb.co.com/sQ6XNgC/forrest.webp",
+    "shortDescription": "Reconnect with nature in a sustainable forest retreat.",
+    "category": "Nature Retreats",
+    "cost": "$250",
+    "availability": "Yes",
+    "location": "Black Forest, Germany",
+    "duration": "3 days",
+    "adventureLevel": "Easy",
+    "includedItems": ["Meals", "Accommodations", "Guided tours"],
+    "ecoFriendlyFeatures": ["Solar-powered cabins", "Zero-waste practices"],
+    "maxGroupSize": 15,
+    "specialInstructions": ["Pack warm clothes", "Respect quiet hours"]
+  },
+  {
+    "id": 6,
+    "title": "Cultural Eco Tour",
+    "image": "https://i.ibb.co.com/M9qYDn2/cultural.webp",
+    "shortDescription": "Immerse yourself in sustainable cultural practices and traditions.",
+    "category": "Cultural Tours",
+    "cost": "$180",
+    "availability": "Yes",
+    "location": "Kyoto, Japan",
+    "duration": "2 days",
+    "adventureLevel": "Easy",
+    "includedItems": ["Local guide", "Traditional meals"],
+    "ecoFriendlyFeatures": [
+      "Support local artisans",
+      "Sustainable transportation"
+    ],
+    "maxGroupSize": 10,
+    "specialInstructions": ["Respect local customs", "Wear comfortable shoes"]
+  },
+  {
+    "id": 7,
+    "title": "Eco Camping",
+    "image": "https://i.ibb.co.com/X5py5sC/camping.webp",
+    "shortDescription": "Experience nature up close with a sustainable camping adventure.",
+    "category": "Camping",
+    "cost": "$100",
+    "availability": "Yes",
+    "location": "Yosemite National Park",
+    "duration": "3 days",
+    "adventureLevel": "Easy",
+    "includedItems": ["Tent", "Camping stove", "Sleeping bag"],
+    "ecoFriendlyFeatures": ["Leave-no-trace camping", "Recycled camping gear"],
+    "maxGroupSize": 8,
+    "specialInstructions": ["Pack light", "Leave nature as you found it"]
+  },
+  {
+    "id": 8,
+    "title": "Mountain Biking",
+    "image": "https://i.ibb.co.com/zsk5Dr1/biking.webp",
+    "shortDescription": "Conquer rugged mountain trails on an eco-friendly bike.",
+    "category": "Mountain Biking",
+    "cost": "$150",
+    "availability": "Yes",
+    "location": "Rockies, USA",
+    "duration": "2 days",
+    "adventureLevel": "Moderate",
+    "includedItems": ["Mountain bike", "Helmet", "Water bottle"],
+    "ecoFriendlyFeatures": ["Eco-friendly bikes", "Zero-emission vehicles"],
+    "maxGroupSize": 10,
+    "specialInstructions": [
+      "Wear protective gear",
+      "Follow the trail guidelines"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Journey to Arrakis",
+    "image": "https://i.ibb.co.com/qMtnb9V/dune.webp",
+    "shortDescription": "Embark on an epic adventure to the desert planet of Arrakis.",
+    "category": "Sci-Fi Adventure",
+    "cost": "500 Solaris",
+    "availability": "Yes",
+    "location": "Arrakis (Dune)",
+    "duration": "14 days",
+    "adventureLevel": "Challenging",
+    "includedItems": [
+      "Stillsuit",
+      "Spice harvesting tour",
+      "Fremen culture guide"
+    ],
+    "ecoFriendlyFeatures": [
+      "Spice sustainability practices",
+      "Preservation of desert ecosystem"
+    ],
+    "maxGroupSize": 20,
+    "specialInstructions": [
+      "Prepare for extreme heat",
+      "Follow Fremen survival rules"
+    ]
+  }
+]
